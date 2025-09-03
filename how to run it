@@ -1,0 +1,11 @@
+# Clone the repository
+git clone https://github.com/<your-username>/bike-sharing.git
+
+# Navigate to project folder
+cd bike-sharing
+
+# Install dependencies
+pip install -r requirements.txt
+
+# Run the Jupyter Notebook / Python script
+jupyter notebook bike_sharing.ipynb
